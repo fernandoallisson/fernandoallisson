@@ -45,13 +45,12 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Fernando_231099" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+
 </a>
 <a href="https://www.linkedin.com/in/fernando-santos-3a58a5247/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+
 </a>
 <a href="https://www.instagram.com/fernando_alisson.4m/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
