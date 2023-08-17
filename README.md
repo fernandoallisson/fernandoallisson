@@ -6,8 +6,6 @@
 
 - 📚 I’m a student at [Trybe](https://github.com/tryber)
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Typescript, Node.JS**
 
 
