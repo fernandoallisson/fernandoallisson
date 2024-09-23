@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Fernando Álisson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Developer Front-End
+- 🔥 Developer Full Stack, but focused in Backend
 
-- 📚 I’m a student at [Trybe](https://github.com/tryber)
+- 📚 I was a student at [Trybe](https://github.com/tryber)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Typescript, Node.JS**
 
@@ -49,6 +49,9 @@
 
 </a>
 <a href="https://www.instagram.com/fernando_alisson.4m/" target="_blank">
+</a>
+
+<a href="fernando.alisson@ufpe.br" target="_blank">Email
 </a>
 </p>
 
