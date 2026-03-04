@@ -17,7 +17,7 @@ src="https://raw.githubusercontent.com/gist/fernandoallisson/afcf4256540baf17780
   <a href="mailto:fernando.alisson@ufpe.br">
     <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/fernando_alisson.4m/">
+  <a href="https://www.instagram.com/fernando__alisson/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-111827?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/Fernando_231099">
@@ -34,7 +34,7 @@ Sou <b>Desenvolvedor Full Stack</b> com pegada forte em <b>produto</b>, <b>autom
 ## 🚀 Atualmente
 
 * 👨‍💻 Trabalho na **Incrível Tech** (plataforma de tecnologia)
-  ↳ LinkedIn: https://www.linkedin.com/company/incr%C3%ADvel-tech
+  ↳ LinkedIn: https://www.linkedin.com/company/incrível-tech
 * 🧠 Construindo produtos na **ALI Digital** (ecossistema de soluções web)
 
   * **ALI Booking**: agendamentos/reservas para arenas (web app/PWA), com **notificações push**, painel admin e fluxos de clientes
@@ -117,7 +117,7 @@ Sou <b>Desenvolvedor Full Stack</b> com pegada forte em <b>produto</b>, <b>autom
   <a href="mailto:fernando.alisson@ufpe.br">
     <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/fernando_alisson.4m/">
+  <a href="https://www.instagram.com/fernando__alisson">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/Fernando_231099">
